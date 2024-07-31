@@ -60,13 +60,30 @@ The study highlights the effectiveness of machine learning models in predicting 
 
 ### 2) SEO Player Value UI
 
-In the first part of our project, we wanted to present the results from our ML model to users more clearly through the UI, displaying statistics and predicted values.
-
-The general project interface and the data we collected are displayed.
+In the first part of our project, we wanted to present the results from our ML model to users more clearly through the UI, displaying predicted values of women football players.
+![image](https://github.com/user-attachments/assets/dba5b94e-894e-43c3-9e14-59f358fb3c30)
 
 The functionality of the search button in our project interface is demonstrated.
-
-To view player statistics in our project, we can click the "View Stats" button. Player statistics in our project are displayed.
+![image](https://github.com/user-attachments/assets/9db7d309-ba07-4d04-ae76-8f8aa44ac86e) ![image](https://github.com/user-attachments/assets/a677aced-7b89-42f8-844b-a510fce5c958) ![image](https://github.com/user-attachments/assets/0274bb66-43fc-4874-ac56-a09ab5b46260)
 
 In our project, we can sort features such as Position, Age, Club, Nationality, and Value. Here, sorting the Age feature is demonstrated.
+![image](https://github.com/user-attachments/assets/39d1a7f3-6d9a-4995-9a03-4741066230c2) ![image](https://github.com/user-attachments/assets/a5a0c06b-f30b-424f-bfd1-8fce7afd7b17) ![image](https://github.com/user-attachments/assets/0fa0c372-453f-4f3f-b703-527722ebea55)
+
+To view player statistics in our project, we can click the "View Stats" button. Player statistics in our project are displayed.
+![image](https://github.com/user-attachments/assets/e8d3f947-bbaf-40d4-8861-40568e2974fc)
+
+To view men football players' statistics and predicted values, we can click the "Men" button. 
+![image](https://github.com/user-attachments/assets/68d12414-6e37-4521-bc06-5f4f3b15f009) ![image](https://github.com/user-attachments/assets/31c51384-919a-46cc-9951-01cdb2da1fb0)
+
+Searching and filtering is valid for this tab too. 
+![image](https://github.com/user-attachments/assets/6028f0dc-967c-4530-92fc-a36ab17d89b7)
+
+
+
+
+
+
+
+
+
  
