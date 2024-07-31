@@ -1,9 +1,10 @@
 # Football Player Value Prediction Project
+![logo](https://github.com/user-attachments/assets/3c1bdc32-e76b-47af-b1c4-40ef4eb8e34b)
 
 ### 1) Data Mining and Machine Learning
 
 ## ![Overview](https://img.shields.io/badge/Overview-green)
-This project analyzes the transfer market for women's football, using machine learning models to predict player market values. As the popularity of women's football grows, the transfer market has become more complex, with increasing transfer fees and data analytics playing a crucial role in decision-making.
+This project analyzes the transfer market for women and men football, using machine learning models to predict player market values. As the popularity of women football grows, the transfer market has become more complex, with increasing transfer fees and data analytics playing a crucial role in decision-making.
 
 ## ![Literature Review](https://img.shields.io/badge/Literature_Review-red)
 
@@ -35,7 +36,7 @@ To evaluate machine learning models for predicting the value of women footballer
 - *Preprocessing:* Filling missing values and applying Min-Max normalization.
 
 ### ![Model Training](https://img.shields.io/badge/Model_Training-darkgreen)
-- *Models:* Gradient Boosting, Random Forest, K-Nearest Neighbors (KNN), Decision Tree, AdaBoost, Linear Regression.
+- *Models:* Gradient Boosting, Random Forest, K-Nearest Neighbors (KNN), Decision Tree, AdaBoost, Linear Regression(It is not regression model, we wanted to show that).
 - *Optimization:* Bayesian Optimization and Grid Search for hyperparameter tuning.
 
 ### ![Libraries Used](https://img.shields.io/badge/Libraries_Used-darkblue)
