@@ -60,7 +60,7 @@ The study highlights the effectiveness of machine learning models in predicting 
 
 ### 2) SEO Player Value UI
 
-In the first part of our project, we wanted to present the results from our ML model to users more clearly through the UI, displaying predicted values of women football players.
+In the first part of our project, we wanted to present the results from our ML model to users more clearly through the UI, displaying predicted values of women football players. We tried to design an interface as user-friendly as possible.
 ![image](https://github.com/user-attachments/assets/dba5b94e-894e-43c3-9e14-59f358fb3c30)
 
 The functionality of the search button in our project interface is demonstrated.
@@ -83,6 +83,9 @@ To view men football players' statistics and predicted values, we can click the 
 Searching and filtering is valid for this tab too. 
 
 ![image](https://github.com/user-attachments/assets/6028f0dc-967c-4530-92fc-a36ab17d89b7)
+
+
+You can send an e-mail at any time to get more detailed information about Data Mining, Machine Learning and User Interface in the project and to ask your questions: =)
 
 
 
